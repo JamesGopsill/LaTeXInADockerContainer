@@ -1,0 +1,6 @@
+tmp/
+fonts/opentype/*
+!fonts/opentype/.gitkeep
+fonts/truetype/*
+!fonts/truetype/.gitkeep
+
