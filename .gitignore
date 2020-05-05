@@ -4,3 +4,4 @@ fonts/opentype/*
 fonts/truetype/*
 !fonts/truetype/.gitkeep
 
+.DS_Store
